@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@700&family=Syne&display=swap');
+
+/* VARIABLES */
+:root {
+  --main: 'Syne', sans-serif;
+  --title: 'Rowdies', cursive;
+
+
+}
+
+/* HEADER */
+h1, h2, h3, h4, h4, h6 {
+  font-family: var(--title);
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  background-color: #A4BFEB;
+  padding: 8px; 
+}
+
+body {
+  font-family: var(--main);
+}
+
+header {
+  width: 90%;
+  margin: 10px auto;
+}
+
+/* NAVIGATION */
+nav {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+}
+
+nav div {
+  margin: 5px;
+  padding: 10px;
+  font-weight: 900;
+  background-color: #9D858D;
+  color: white;
+  border-radius: 5px;
+  width: 50vw;
+  max-width: 300px;
+  text-align: center;
+  transition: background-color .3s, color .3s;
+
+}
+
+nav div:hover {
+  background-color: white;
+  color: #9D858D;
+}
+
+/* CARDS */
+
+main {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 90%;
+  margin: 10px auto;
+}
+
+main article {
+  width: 90%;
+  max-width: 300px;
+  margin: 10px;
+  padding: 10px;
+  border: 3px solid 
+}
+
+main article h5 {
+  text-align: center;
+  font-size: 1.2em;
+}
+
+main article code {
+  display: block;
+  color: #9D858D;
+  text-align: center;
+}
+
+
+
+
+/* MOBILE MEDIA QUERIES */
+@media (max-width: 600px){
+  nav div {
+    width:35vw;
+    max-width: 85px;
+    text-align: center;
+    
+  
+  }
+  
+  nav div:hover {
+    background-color: white;
+    color: #9D858D;
+  }
+}
