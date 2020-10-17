@@ -17,7 +17,7 @@ export default [
     github: "https://github.com/AlexMercedCoder/MercedElement",
     npm: "https://www.npmjs.com/package/mercedelement",
     vid: "https://www.youtube.com/watch?v=p0pT8egjpR4",
-    blog: "",
+    blog: "https://tuts.alexmercedcoder.com/mercedui/",
     command: "npm install mercedelement",
   },
   {
@@ -38,7 +38,7 @@ export default [
     npm: "https://www.npmjs.com/package/mercedutils",
     vid:
       "https://www.youtube.com/playlist?list=PLY6oTPmKnKbbge3XP8ne041HAQwGle8_Z",
-    blog: "",
+    blog: "https://tuts.alexmercedcoder.com/mutils/",
     command: "npm install mercedutils",
   },
   {
@@ -49,7 +49,7 @@ export default [
     npm: "https://www.npmjs.com/package/@alexmerced/bettertypes",
     vid:
       "https://www.youtube.com/playlist?list=PLY6oTPmKnKbbge3XP8ne041HAQwGle8_Z",
-    blog: "",
+    blog: "https://tuts.alexmercedcoder.com/mutils/",
     command: "npm install @alexmerced/bettertypes",
   },
   {
@@ -59,7 +59,7 @@ export default [
     github: "https://github.com/AlexMercedCoder/Mutils",
     npm: "https://www.npmjs.com/package/mutils_am",
     vid: "https://www.youtube.com/watch?v=Fn8-AFZ9Lsw",
-    blog: "",
+    blog: "https://tuts.alexmercedcoder.com/mutils/",
     command: "npm install mutils_am",
   },
   {
@@ -170,7 +170,7 @@ export default [
     github: "https://github.com/AlexMercedCoder/merver",
     npm: "https://www.npmjs.com/package/am-merver",
     vid: "https://youtu.be/kejYk7KsH78",
-    blog: "",
+    blog: "https://tuts.alexmercedcoder.com/merver/",
     command: "npx merced-spinup merver projectName",
   },
   {
