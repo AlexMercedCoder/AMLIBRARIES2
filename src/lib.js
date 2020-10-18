@@ -183,4 +183,14 @@ export default [
     blog: "https://tuts.alexmercedcoder.com/usedatastore/",
     command: "npm install usedatastore",
   },
+  {
+    name: "make-fullstack-app",
+    description:
+      "Tool for scaffolding a fullstack NodeJS application using a variety of frontend and backend applications with ease. Read the documentation for full list of templates.",
+    github: "https://github.com/AlexMercedCoder/make-fullstack-app",
+    npm: "https://www.npmjs.com/package/make-fullstack-app",
+    vid: "https://youtu.be/KOI7IvSgQUg",
+    blog: "",
+    command: "npx make-fullstack-app backendTemplate frontendTemplate",
+  },
 ];
