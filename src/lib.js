@@ -193,4 +193,14 @@ export default [
     blog: "",
     command: "npx make-fullstack-app backendTemplate frontendTemplate",
   },
+  {
+    name: "mongorester",
+    description:
+      "Library for making a full CRUD API with Mongoose and Express in one line of code",
+    github: "https://github.com/AlexMercedCoder/mongorester",
+    npm: "https://www.npmjs.com/package/mongorester",
+    vid: "",
+    blog: "",
+    command: "npm install mongorester",
+  },
 ];
