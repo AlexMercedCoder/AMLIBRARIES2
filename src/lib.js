@@ -190,7 +190,7 @@ export default [
     github: "https://github.com/AlexMercedCoder/make-fullstack-app",
     npm: "https://www.npmjs.com/package/make-fullstack-app",
     vid: "https://youtu.be/KOI7IvSgQUg",
-    blog: "",
+    blog: "https://tuts.alexmercedcoder.com/make-fullstack-app/",
     command: "npx make-fullstack-app backendTemplate frontendTemplate",
   },
   {
@@ -199,7 +199,7 @@ export default [
       "Library for making a full CRUD API with Mongoose and Express in one line of code",
     github: "https://github.com/AlexMercedCoder/mongorester",
     npm: "https://www.npmjs.com/package/mongorester",
-    vid: "",
+    vid: "https://youtu.be/q_xLL75rbsI",
     blog: "https://tuts.alexmercedcoder.com/mongorester/",
     command: "npm install mongorester",
   },
