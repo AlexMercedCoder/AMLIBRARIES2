@@ -200,7 +200,7 @@ export default [
     github: "https://github.com/AlexMercedCoder/mongorester",
     npm: "https://www.npmjs.com/package/mongorester",
     vid: "",
-    blog: "",
+    blog: "https://tuts.alexmercedcoder.com/mongorester/",
     command: "npm install mongorester",
   },
 ];
