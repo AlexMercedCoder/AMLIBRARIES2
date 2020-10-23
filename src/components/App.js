@@ -28,7 +28,9 @@ export const App = (props) => {
           </a>
         </nav>
         <h2>
-          <a href="https://www.patreon.com/alexmercedcoder">Patreon</a>
+          <a href="https://www.patreon.com/alexmercedcoder">
+            Support My Efforts on Patreon
+          </a>
         </h2>
       </header>
       <main>
