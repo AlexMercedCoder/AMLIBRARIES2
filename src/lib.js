@@ -203,4 +203,14 @@ export default [
     blog: "https://tuts.alexmercedcoder.com/mongorester/",
     command: "npm install mongorester",
   },
+  {
+    name: "merced-react-hooks",
+    description:
+      "Library of custom hooks for Application Level State, binding Local/Session storage to state, and Semantic Lifecycle Hooks.",
+    github: "https://github.com/AlexMercedCoder/merced-react-hooks",
+    npm: "https://www.npmjs.com/package/merced-react-hooks",
+    vid: "https://www.youtube.com/playlist?list=PLY6oTPmKnKbYurl9-_fSMY4X6DZ1sx39s",
+    blog: "https://tuts.alexmercedcoder.com/merced-react-hooks/",
+    command: "npm install merced-react-hooks",
+  },
 ];

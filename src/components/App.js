@@ -39,7 +39,7 @@ export const App = (props) => {
         ))}
       </main>
       <footer>
-        <h2>FOLLOW ALEX MERCED ON TWITTER & INSTAGRAM => @AlexMercedCoder</h2>
+        <h2>FOLLOW ALEX MERCED ON TWITTER & INSTAGRAM: @AlexMercedCoder</h2>
       </footer>
     </>
   );
