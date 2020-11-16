@@ -213,4 +213,14 @@ export default [
     blog: "https://tuts.alexmercedcoder.com/merced-react-hooks/",
     command: "npm install merced-react-hooks",
   },
+  {
+    name: "konjection",
+    description:
+      "Library for assisting with using Knex and Objection to work with SQL Databases.",
+    github: "https://github.com/AlexMercedCoder/konjection",
+    npm: "https://www.npmjs.com/package/konjection",
+    vid: "https://youtu.be/zfp7D_MB9c0",
+    blog: "https://tuts.alexmercedcoder.com/konjection/",
+    command: "npm install konjection",
+  },
 ];
